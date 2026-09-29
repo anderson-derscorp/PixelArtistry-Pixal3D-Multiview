@@ -28,7 +28,7 @@ Free & local ComfyUI workflow that turns one prompt into a **4-view character sh
 
 - **Latest ComfyUI.** Qwen-Image 2.1 and Pixal3D Multiview are core nodes. No custom nodes needed.
 - **Disk space:** about 25 GB for the required models, +17.6 GB for the two optional prompt enhancers.
-- **VRAM:** [VRAM – TODO, fill in after testing]
+- **VRAM:** around 12 GB in my tests.
 - Windows for the model downloader script. On other systems, download the models manually (table below).
 
 ## Installation
