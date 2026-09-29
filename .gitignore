@@ -1,0 +1,17 @@
+# Model files (download them with download_models_win.bat)
+*.safetensors
+*.gguf
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.part
+
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
