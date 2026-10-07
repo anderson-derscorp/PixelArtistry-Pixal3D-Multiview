@@ -13,7 +13,29 @@ Free & local ComfyUI workflow that turns one prompt into a **4-view character sh
 *Example output of Step 2: one sheet, four views, same character. The image here is a downscaled copy.*
 
 <!-- TODO: add a mesh screenshot (examples/mesh_character.png) once available -->
+Download Free Workflow + Model Downloader:
 
+https://github.com/pixelartistry/PixelArtistry-Pixal3D-MultiView
+
+Pixal3D Models (Hugging Face):
+
+https://huggingface.co/Comfy-Org/Pixal3D
+
+Qwen Image 2.1 (Hugging Face):
+
+https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct
+
+Pixal3D GGUF Setup:
+
+https://pixel-artistry.com/Pixal3DGGUF
+
+Pixal3D Multiview video:
+
+https://youtu.be/_lgyED4IkJg
+
+Trellis 2 Installation Guide:
+
+https://pixel-artistry.com/Trellis2InstallationGuide
 ---
 
 ## What it does
